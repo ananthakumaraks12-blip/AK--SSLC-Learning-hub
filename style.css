@@ -10,10 +10,31 @@ background:#f5f7fb;
 }
 
 header{
-background:#1565C0;
-color:white;
-text-align:center;
-padding:20px;
+.header{
+    background:#0D47A1;
+    color:#fff;
+    padding:15px 30px;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    flex-wrap:wrap;
+}
+
+.logo{
+    font-size:28px;
+    font-weight:bold;
+}
+
+nav a{
+    color:white;
+    text-decoration:none;
+    margin:10px;
+    font-size:18px;
+    font-weight:bold;
+}
+
+nav a:hover{
+    color:yellow;
 }
 
 .container{
