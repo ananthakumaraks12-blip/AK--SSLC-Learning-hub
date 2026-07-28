@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="kn">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Science - AK SSLC Learning Hub</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>📕 Science</h1>
+
+<p>Official Science Study Resources</p>
+
+<ul>
+  <li><a href="#">📖 Science Textbook PDF</a></li>
+  <li><a href="#">🧪 Practical Notes</a></li>
+  <li><a href="#">📄 Previous Question Papers</a></li>
+  <li><a href="#">❓ Science Quiz</a></li>
+</ul>
+
+<br>
+
+<a href="index.html">🏠 Back to Home</a>
+
+</body>
+</html>
