@@ -38,22 +38,22 @@ gap:20px;
 }
 
 .card{
-background:white;
-padding:20px;
-text-align:center;
-text-decoration:none;
-color:#222;
-font-size:20px;
-font-weight:bold;
-border-radius:12px;
-box-shadow:0 2px 8px rgba(0,0,0,.15);
-transition:.3s;
+    background:#fff;
+    padding:30px;
+    border-radius:15px;
+    text-decoration:none;
+    color:#222;
+    font-size:28px;
+    font-weight:bold;
+    text-align:center;
+    box-shadow:0 5px 15px rgba(0,0,0,.15);
+    transition:.3s;
 }
 
 .card:hover{
-background:#1565C0;
-color:white;
-transform:scale(1.05);
+    background:#1565C0;
+    color:#fff;
+    transform:translateY(-5px);
 }
 
 footer{
